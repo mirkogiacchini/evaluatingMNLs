@@ -1,0 +1,5 @@
+Dataset collected on 12 August 2025, using Codeforces API: https://codeforces.com/apiHelp/methods#user.rating
+
+Competing users: activeOnly=true, includeRetired=false
+Active users: activeOnly=false, includeRetired=false
+All users: activeOnly=false, includeRetired=true

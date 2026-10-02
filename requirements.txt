@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+scipy
+torch
+matplotlib
+cycler
+pytorch-lightning
